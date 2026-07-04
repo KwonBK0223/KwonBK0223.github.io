@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="icon" href="https://avatars.githubusercontent.com/u/114387888?v=4">
+<style>
+:root{
+  --accent:#1a3c5e;
+  --accent-light:#2e6da4;
+  --text:#2b2b2b;
+  --muted:#6b7280;
+  --line:#e5e7eb;
+  --bg:#ffffff;
+  --bg-soft:#f7f9fb;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Helvetica Neue",Helvetica,Arial,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;color:var(--text);background:var(--bg);line-height:1.65;font-size:16px}
+a{color:var(--accent-light);text-decoration:none}
+a:hover{text-decoration:underline}
+header{background:var(--accent);color:#fff}
+.header-inner{max-width:900px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.site-name{font-size:1.15rem;font-weight:700;color:#fff}
+nav{display:flex;flex-wrap:wrap;gap:4px}
+nav a{color:#dbe6f1;padding:6px 12px;border-radius:6px;font-size:.95rem}
+nav a:hover{background:rgba(255,255,255,.12);text-decoration:none;color:#fff}
+nav a.active{background:rgba(255,255,255,.18);color:#fff;font-weight:600}
+main{max-width:900px;margin:0 auto;padding:36px 20px 60px}
+h1{font-size:1.7rem;color:var(--accent);margin-bottom:18px;padding-bottom:10px;border-bottom:2px solid var(--accent)}
+h2{font-size:1.25rem;color:var(--accent);margin:34px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+h3{font-size:1.05rem;color:var(--accent-light);margin:22px 0 8px}
+p{margin-bottom:12px}
+ul,ol{margin:0 0 16px 22px}
+li{margin-bottom:8px}
+strong{color:#111}
+.profile{display:flex;gap:28px;align-items:flex-start;flex-wrap:wrap;margin-bottom:10px}
+.profile img{width:180px;height:180px;border-radius:12px;object-fit:cover;box-shadow:0 4px 14px rgba(0,0,0,.15)}
+.profile .bio{flex:1;min-width:260px}
+.profile .bio .role{color:var(--muted);margin-bottom:14px}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 4px}
+.links a{border:1px solid var(--accent-light);border-radius:20px;padding:4px 14px;font-size:.88rem}
+.links a:hover{background:var(--accent-light);color:#fff;text-decoration:none}
+.card{background:var(--bg-soft);border:1px solid var(--line);border-radius:10px;padding:16px 20px;margin-bottom:14px}
+.card .period{color:var(--muted);font-size:.88rem}
+.note{color:var(--muted);font-size:.9rem}
+.badge{display:inline-block;background:var(--accent-light);color:#fff;border-radius:4px;font-size:.75rem;padding:1px 8px;margin-left:6px;vertical-align:middle}
+footer{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;text-align:center;padding:22px 20px 40px}
+@media(max-width:600px){.profile{justify-content:center;text-align:left}}
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <a class="site-name" href="{{ '/' | relative_url }}">Byeongkeun Kwon</a>
+    <nav>
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+      <a href="{{ '/publications' | relative_url }}" {% if page.url contains 'publications' %}class="active"{% endif %}>Publications</a>
+      <a href="{{ '/projects' | relative_url }}" {% if page.url contains 'projects' %}class="active"{% endif %}>Projects</a>
+      <a href="{{ '/conferences' | relative_url }}" {% if page.url contains 'conferences' %}class="active"{% endif %}>Conferences</a>
+      <a href="{{ '/awards' | relative_url }}" {% if page.url contains 'awards' %}class="active"{% endif %}>Awards</a>
+    </nav>
+  </div>
+</header>
+<main>
+{{ content }}
+</main>
+<footer>
+  © {{ 'now' | date: "%Y" }} Byeongkeun Kwon · AAI Lab, Graduate School of Data Science, Kyungpook National University
+</footer>
+</body>
+</html>

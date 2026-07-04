@@ -34,7 +34,7 @@ title: Home
   <br><span class="note">Dissertation: A Newtonian-informed Transformer AutoEncoder for Vessel Navigation Risk Index Estimation</span>
   <br><span class="note">Advisor: Prof. Suhyeon Kim</span>
 - **B.S. in Mathematics**, Pusan National University, Korea (Mar 2017 – Feb 2024)
-  <br><span class="note">Interdisciplinary Major in Industrial Mathematics & Software (Mar 2022 – Feb 2024)</span>
+- **B.S. in Interdisciplinary Major in Industrial Mathematics & Software**, Pusan National University, Korea (Mar 2022 – Feb 2024)
 - **Undergraduate Researcher**, Industrial Mathematics Center, Pusan National University, Korea (Mar 2023 – Dec 2023)
 
 ## Teaching

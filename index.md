@@ -4,16 +4,15 @@ title: Home
 ---
 
 <div class="profile">
-  <img src="https://avatars.githubusercontent.com/u/114387888?v=4" alt="Byeongkeun Kwon">
+  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Byeongkeun Kwon">
   <div class="bio">
     <h1 style="border:none;margin-bottom:4px;padding-bottom:0">Byeongkeun Kwon (권병근)</h1>
     <p class="role">Ph.D. Student, Graduate School of Data Science<br>
     Applied Artificial Intelligence (AAI) Lab, Kyungpook National University</p>
     <p>I am a Ph.D. student in Data Science at Kyungpook National University, advised by Prof. Suhyeon Kim. My research focuses on applied AI for mobility, industrial systems, and medical data — including risk estimation, anomaly detection, graph machine learning, and privacy-preserving AI.</p>
     <div class="links">
-      <a href="mailto:house9895@knu.ac.kr">Email</a>
-      <a href="https://github.com/KwonBK0223">GitHub</a>
-      <a href="https://orcid.org/0009-0009-1632-4249">ORCID</a>
+      <a href="https://scholar.google.com/citations?user=bgECJuUAAAAJ&hl=ko">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/byeongkeun-kwon-3268772bb/">LinkedIn</a>
       <a href="{{ '/assets/CV_ByeongkeunKwon.pdf' | relative_url }}">CV (PDF)</a>
       <a href="https://sites.google.com/view/suhyeon-kim/home">AAI Lab</a>
     </div>

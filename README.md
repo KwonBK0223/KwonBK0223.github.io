@@ -16,4 +16,4 @@ Built with Jekyll, hosted on GitHub Pages: <https://kwonbk0223.github.io>
 
 ## How to update
 
-Edit the `.md` files directly on GitHub (pencil icon) and commit — the site rebuilds automatically in ~1 minute.
+Edit the `.md` files directly on GitHub (pencil icon) and commit — the site rebuilds automatically in about a minute.

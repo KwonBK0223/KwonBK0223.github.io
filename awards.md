@@ -8,7 +8,7 @@ permalink: /awards
 
 ## Grants
 
-- **KNU Ph.D. Fellow**, Kyungpook National University, Spring 2026. <span class="note">Award amount: KRW 5,000,000</span>
+- **KNU Ph.D. Fellow**, Kyungpook National University, Spring 2026. <span class="note">Award amount: KRW 5,000,000 *(approximately USD 3.3K)*</span>
 
 ## Awards
 

@@ -10,7 +10,7 @@ permalink: /publications
 
 ## SCI(E) / SSCI Journal Papers
 
-1. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim\*, Sung Hyun Noh\*, "[Predictive Modelling of the Need for Tracheostomy after Traumatic Cervical Spinal Cord Injury using Machine Learning](https://doi.org/10.3349/ymj.2025.0190)," *Yonsei Medical Journal*, 2026. <span class="badge">JCR Q1</span> <span class="note">Co-first author, Accepted</span>
+1. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim\*, Sung Hyun Noh\*, "[Predictive Modelling of the Need for Tracheostomy after Traumatic Cervical Spinal Cord Injury using Machine Learning](https://doi.org/10.3349/ymj.2025.0190)," *Yonsei Medical Journal*, 2026. <span class="badge">JCR Q1</span> <span class="note">Co-first author</span>
 2. **Byeongkeun Kwon†**, Dain Lee†, Hyunjun Ko, Hanbin Lee, Hyeonjun Hwang\*, Suhyeon Kim\*, "[A Graph Neural Network Approach for Aquatic Biodiversity Prediction Leveraging Water System Interconnections](https://doi.org/10.1016/j.ecoinf.2026.103776)," *Ecological Informatics*, May 2026. <span class="badge">JCR Q1, 4.1%</span> <span class="note">Co-first author</span>
 
 ## Scopus Papers
@@ -19,8 +19,10 @@ permalink: /publications
 
 ## Working Papers
 
-1. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim\*, "A Newtonian-informed Transformer Autoencoder for Fishing Vessel Navigation Risk Index Estimation." <span class="note">Submitted manuscript</span>
-2. **Byeongkeun Kwon†**, Dasom Seong†, Jiyun Park, Hyeonjun Hwang\*, Suhyeon Kim\*, "Water Quality Risk Index Estimation using Graph Neural Networks for Spatiotemporal Watershed Systems." <span class="note">Submitted manuscript</span>
+1. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim\*, "A Newtonian-informed Transformer Autoencoder for Fishing Vessel Navigation Risk Index Estimation." <span class="note">Under review at *Ocean Engineering*</span>
+2. **Byeongkeun Kwon†**, Dasom Seong†, Jiyun Park, Hyeonjun Hwang\*, Suhyeon Kim\*, "Water Quality Risk Index Estimation using Graph Neural Networks for Spatiotemporal Watershed Systems." <span class="note">Submitted to *Water Research*</span>
+3. **Byeongkeun Kwon†**, Dasom Seong†, Sung Hyun Noh\*, Suhyeon Kim\*, "SSIU-Net: Spine Screw Inverse U-Net for Anatomical Representation-guided Pedicle Screw Trajectory Planning." <span class="note">Manuscript in preparation. Target journal: *Medical Image Analysis*</span>
+4. **Byeongkeun Kwon†**, Sesun You†, Young Seop Son\*, Suhyeon Kim\*, "CAN-based Heavy-Duty Truck Weight Estimation: A Dual-phase Analysis of AI and Vehicle Dynamics." <span class="note">Manuscript in preparation. Target journal: *IEEE Transactions on Intelligent Vehicles*</span>
 
 ## Patents
 

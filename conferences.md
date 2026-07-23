@@ -8,11 +8,13 @@ permalink: /conferences
 
 ## International Conferences
 
-1. **Byeongkeun Kwon**, Dasom Seong, Suhyeon Kim, Sung Hyun Noh, "3D Generative Models for Vertebral Segmentation and Pedicle Screw Path Prediction," *MICCAI 2025 CLINICCAI*, Daejeon, Korea, September 23–27, 2025.
-2. **Byeongkeun Kwon**, Eun-ji Lee, Suhyeon Kim, Sung Hyun Noh, "Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury," *ASIA SPINE & NCS 2025*, Busan, Korea, September 4–6, 2025.
-3. Hyosung Kim, Taejun Kwon, **Byeongkeun Kwon**, Jieun Jang, Jihun Jang, "DRIVE: Drowsiness Recognition and Intelligent Vibration Evocation," *IEEE World Haptics Conference 2025*, Suwon, Korea, July 8–11, 2025.
-4. **Byeongkeun Kwon**, Suhyeon Kim, "Classical Mechanics Meet Deep Learning: Ship Hazardous Navigation Detection System," *IISE Annual Conference & Expo 2025*, Atlanta, USA, May 31–June 3, 2025. <span class="note">Presenter; Session Chair</span>
-5. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network," *Deep Learn 2024: 11th International School on Deep Learning*, Porto, Portugal, July 15–19, 2024.
+1. Wonhee Kim, **Byeongkeun Kwon**, Suhyeon Kim, Young Ok Lee, Young Seop Son, "Multi-Rate Scheduling and Atomic-Step Decomposition for MLP-Mixer Inference on Bare-Metal Embedded Systems," *ICETA 2026*, Nha Trang, Vietnam, July 20–23, 2026.
+2. **Byeongkeun Kwon**, Dasom Seong, Suhyeon Kim, Sung Hyun Noh, "3D Generative Models for Vertebral Segmentation and Pedicle Screw Path Prediction," *MICCAI 2025 CLINICCAI*, Daejeon, Korea, September 23–27, 2025.
+3. **Byeongkeun Kwon**, Eun-ji Lee, Suhyeon Kim, Sung Hyun Noh, "Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury," *ASIA SPINE & NCS 2025*, Busan, Korea, September 4–6, 2025.
+4. Hyosung Kim, Taejun Kwon, **Byeongkeun Kwon**, Jieun Jang, Jihun Jang, "DRIVE: Drowsiness Recognition and Intelligent Vibration Evocation," *IEEE World Haptics Conference 2025*, Suwon, Korea, July 8–11, 2025.
+5. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim, "Classical Mechanics Meet Deep Learning: Ship Hazardous Navigation Detection System," *IISE Annual Conference & Expo 2025*, Atlanta, USA, May 31–June 3, 2025.
+6. Dain Lee, **Byeongkeun Kwon**, Hyunjun Ko, Suhyeon Kim, "A Graph Neural Network Approach for Aquatic Biodiversity Prediction Leveraging Water System Interconnections," *IISE Annual Conference & Expo 2025*, Atlanta, USA, May 31–June 3, 2025.
+7. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network," *Deep Learn 2024: 11th International School on Deep Learning*, Porto, Portugal, July 15–19, 2024.
 
 ## Domestic Conferences
 

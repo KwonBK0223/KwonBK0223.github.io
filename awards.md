@@ -31,8 +31,9 @@ permalink: /awards
 
 ## Media Coverage
 
-1. 데이터사이언스 대학원생, 「2025 K-DATA SCIENCE 해커톤」서 과기부 장관상 및 NIA 원장상 수상 — [KNU News](https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335443&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214)
-2. 스마트 안전벨트로 미래 모빌리티 혁신, 경북대 학생들이 해냈다 — [매일신문](https://www.imaeil.com/page/view/2025090700284189047)
-3. 경북대 d.ACE팀, 'ICT 챌린지' 과기부 장관상 수상 — [뉴시스](https://www.newsis.com/view/NISX20250905_0003317834)
-4. 대학원생팀, '차세대 스마트 안전벨트' 개발로 'ICT 챌린지' 과기부 장관상 수상 — [KNU News](https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335391&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214)
-5. "환경 정보로 탄소중립 실현"…AI분리수거·수질리스크지수·친환경활동실천 플랫폼 등 '에코톤 대상' — [전자신문](https://www.etnews.com/20250704000236)
+1.AI로 경추척수손상 환자 기관절개술 가능성 조기 예측 - [한국의약통신](https://www.kmpnews.co.kr/news/articleView.html?idxno=73521)
+2. 데이터사이언스 대학원생, 「2025 K-DATA SCIENCE 해커톤」서 과기부 장관상 및 NIA 원장상 수상 — [KNU News](https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335443&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214)
+3. 스마트 안전벨트로 미래 모빌리티 혁신, 경북대 학생들이 해냈다 — [매일신문](https://www.imaeil.com/page/view/2025090700284189047)
+4. 경북대 d.ACE팀, 'ICT 챌린지' 과기부 장관상 수상 — [뉴시스](https://www.newsis.com/view/NISX20250905_0003317834)
+5. 대학원생팀, '차세대 스마트 안전벨트' 개발로 'ICT 챌린지' 과기부 장관상 수상 — [KNU News](https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335391&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214)
+6. "환경 정보로 탄소중립 실현"…AI분리수거·수질리스크지수·친환경활동실천 플랫폼 등 '에코톤 대상' — [전자신문](https://www.etnews.com/20250704000236)

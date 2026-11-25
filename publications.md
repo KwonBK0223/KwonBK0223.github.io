@@ -20,10 +20,12 @@ permalink: /publications
 ## Working Papers
 
 1. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim\*, "A Newtonian-informed Transformer Autoencoder for Fishing Vessel Navigation Risk Index Estimation." <span class="note">Under review at *Ocean Engineering*</span>
-2. **Byeongkeun Kwon†**, Dasom Seong†, Jiyun Park, Hyeonjun Hwang\*, Suhyeon Kim\*, "Water Quality Risk Index Estimation using Graph Neural Networks for Spatiotemporal Watershed Systems." <span class="note">Submitted to *Water Research*</span>
+2. **Byeongkeun Kwon†**, Dasom Seong†, Jiyun Park, Hyeonjun Hwang\*, Suhyeon Kim\*, "Water Quality Risk Index Estimation using Graph Neural Networks for Spatiotemporal Watershed Systems." <span class="note">Under review at *Water Resources Research*</span>
 3. **Byeongkeun Kwon†**, Dasom Seong†, Sung Hyun Noh\*, Suhyeon Kim\*, "SSIU-Net: Spine Screw Inverse U-Net for Anatomical Representation-guided Pedicle Screw Trajectory Planning." <span class="note">Manuscript in preparation. Target journal: *Medical Image Analysis*</span>
 4. **Byeongkeun Kwon†**, Sesun You†, Young Seop Son\*, Suhyeon Kim\*, "CAN-based Heavy-Duty Truck Weight Estimation: A Dual-phase Analysis of AI and Vehicle Dynamics." <span class="note">Manuscript in preparation. Target journal: *IEEE Transactions on Intelligent Vehicles*</span>
 
 ## Patents
 
 1. Aquatic biodiversity prediction system and its method, 2025.
+2. Appartus and method for calculating vessel navigation risk index, 2026.
+3. Appartus and method for estimating water quality risk index, 2026.
